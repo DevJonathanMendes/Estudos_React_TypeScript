@@ -1,2 +1,1 @@
-# Estudos_ReactJS
-Estudos sobre React.JS
+# Estudos de React com TypeScript
